@@ -1,11 +1,13 @@
-# api documentation for  [postcss (v5.2.16)](http://postcss.org/)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-postcss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-postcss)
+# api documentation for  [postcss (v5.2.16)](http://postcss.org/)  [![npm package](https://img.shields.io/npm/v/npmdoc-postcss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-postcss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-postcss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-postcss)
 #### Tool for transforming styles with JS plugins
 
 [![NPM](https://nodei.co/npm/postcss.png?downloads=true)](https://www.npmjs.com/package/postcss)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-postcss/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-postcss_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-postcss/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-postcss/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-postcss_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-postcss/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-postcss/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-postcss/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-postcss/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
