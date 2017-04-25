@@ -1,4 +1,7 @@
-# api documentation for  [postcss (v5.2.17)](http://postcss.org/)  [![npm package](https://img.shields.io/npm/v/npmdoc-postcss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-postcss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-postcss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-postcss)
+# npmdoc-postcss
+
+#### basic api documentation for  [postcss (v5.2.17)](http://postcss.org/)  [![npm package](https://img.shields.io/npm/v/npmdoc-postcss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-postcss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-postcss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-postcss)
+
 #### Tool for transforming styles with JS plugins
 
 [![NPM](https://nodei.co/npm/postcss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/postcss)
@@ -113,7 +116,8 @@
         "test": "gulp"
     },
     "types": "lib/postcss.d.ts",
-    "version": "5.2.17"
+    "version": "5.2.17",
+    "bin": {}
 }
 ```
 
